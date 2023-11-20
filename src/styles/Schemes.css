@@ -1,0 +1,11 @@
+#display {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0rem;
+}
+
+.containerClass {
+    width: 74rem;
+    position: relative;
+    margin: auto;
+}
